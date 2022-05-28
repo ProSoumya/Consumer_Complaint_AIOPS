@@ -52,3 +52,21 @@ git push <remote_branch_variable> <branchname>
 '''
 
 
+To create an virtual environment in  this folder:
+
+'''
+conda create -p venv python=3.7 -y 
+'''
+
+To activate the cvirtual environment
+'''
+conda activate venv/
+'''
+
+To ignore the files for Git_repo
+
+'''
+touch .gitignore
+'''
+
+
