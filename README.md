@@ -24,7 +24,7 @@ git commit -m "Write of your Message about the changes"
 Rename branch to Main Branch:
 
 '''
-git branch -m main
+git branch -m main    (Master branch will  be renamed to main)
 '''
 
 To check remote branch url
