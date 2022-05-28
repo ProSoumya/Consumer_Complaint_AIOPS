@@ -4,7 +4,7 @@
 Cloning a project from Git Repo:
 
 '''
- https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git
+https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git
 '''
 
 To add the files in Staging area :
@@ -16,39 +16,39 @@ To add the files in Staging area :
 To  commit the file in Git Repo :
 
 '''
- git commit -m "Write of your Message about the changes"
+git commit -m "Write of your Message about the changes"
 '''
 
 Rename branch to Main Branch:
 
 '''
- git branch -m main    (Master branch will  be renamed to main)
+git branch -m main    (Master branch will  be renamed to main)
 '''
 
 To check remote branch url
 
 '''
- git remote -v
+git remote -v
 '''
- #origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (fetch)
- #origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (push)
+#origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (fetch)
+#origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (push)
 
 To remove file from staging area:
 
 '''
- git rm --cached <file_name>
+git rm --cached <file_name>
 '''
 
 
 Push command :
 
 '''
- git push origin main
+git push origin main
 '''
 To send changes to  remote branch:
 
 '''
- git push <remote_branch_variable> <branchname>
+git push <remote_branch_variable> <branchname>
 '''
 
 
