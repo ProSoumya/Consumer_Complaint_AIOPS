@@ -32,6 +32,8 @@ To check remote branch url
 '''
 git remote -v
 '''
+#origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (fetch)
+#origin  https://github.com/ProSoumya/Consumer_Complaint_AIOPS.git (push)
 
 To remove file from staging area:
 
