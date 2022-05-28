@@ -70,3 +70,9 @@ touch .gitignore
 '''
 
 
+To create an  Requirements.txt
+pip  freeze>requirements.txt
+
+copy CSV file from one folder to data folder
+
+cp "C:\Users\soumy\Downloads\factbook.csv" data\

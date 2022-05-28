@@ -1,0 +1,4 @@
+certifi==2022.5.18.1
+wincertstore==0.2
+tfx==1.6.1
+wget
